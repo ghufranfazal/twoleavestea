@@ -46,7 +46,7 @@ nav a i{
     padding:2px;
     border-radius: 50%;
 }
-.ri-star-s-fill{
+nav a .ri-star-s-fill{
     background-color: #FFB500;
     padding:2px;
     border-radius: 50%;
