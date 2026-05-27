@@ -1,4 +1,9 @@
-@media only screen and (min-width:770px) and (max-width:1500px){
+@media only screen and (min-width:700px) and (max-width:980px){
+    .productCard{
+        flex-basis: 48%;
+    }
+}
+@media only screen and (min-width:981px) and (max-width:1500px){
     .ri-menu-line{
         display: none;
     }
